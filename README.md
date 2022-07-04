@@ -9,7 +9,7 @@
 #                                                            #
 # sample:                                                    #
 # exten => 1234,1,Answer()                                   #
-#  same => n,System(/usr/local/bin/watalk.sh "Guten Morgen." #
+#  same => n,System(/usr/local/bin/watalk.sh "Guten Morgen.")#
 #  same => n,Playback(/tmp/sprech)                           #
 #  same => n,Hangup()                                        #
 #                                                            #
